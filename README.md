@@ -148,9 +148,25 @@ O MVP deve ser avaliado com cenários como:
 
 Esse roadmap representa planejamento; não é uma lista de entregas já validadas.
 
-## 📷 Evidências do desafio
+## 📷 Evidências reais do desenvolvimento
 
-O desafio solicita prints ou vídeos das interações com IA. Um roteiro de captura está em [docs/EVIDENCIAS.md](./docs/EVIDENCIAS.md). As imagens devem ser inseridas somente após coleta real, usando dados fictícios.
+Os prints abaixo foram fornecidos pelo autor e mostram o processo de elaboração do prompt, a resposta da ferramenta e uma tela do aplicativo no Lovable.
+
+### 1. Engenharia do prompt — fundação do projeto
+
+![Prompt inicial RECOMEÇO no Lovable](./assets/screenshots/01-prompt-inicial.png)
+
+### 2. Iteração e resposta do Lovable
+
+![Descrição das funcionalidades geradas no Lovable](./assets/screenshots/02-retorno-lovable.png)
+
+### 3. Interface — Metas e Reservas
+
+![Tela Metas e Reservas do RECOMEÇO no Lovable](./assets/screenshots/03-metas-e-reservas.png)
+
+**O que foi visualmente evidenciado:** prompt inicial, resposta do Lovable e interface do módulo Metas e Reservas. As imagens, por si só, não validam persistência, testes, cálculos ou a conclusão de todos os módulos.
+
+[Ver detalhes e orientações das evidências](./docs/EVIDENCIAS.md).
 
 ## 💭 Reflexão
 
